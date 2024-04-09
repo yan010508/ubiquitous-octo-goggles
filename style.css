@@ -1,0 +1,32 @@
+.box {
+	width: 860px;
+	height: 80%;
+	margin: auto;
+	text-align: center;
+    background: white;
+    border-radius: 7%;
+}
+
+body{
+    background-color: rgb(98, 122, 165) ;
+}
+
+nav {
+    background-color: aqua;
+    height: 320px;
+    width: 900px;
+    position: relative;
+    text-align: center;
+}
+h1 {
+    color: #333;
+    text-align: center;
+}
+
+p {
+    font-size: 1em;
+    line-height: 1.5em;
+    font-weight: bold; 
+    margin-left: 20px;
+    margin-right: 20PX;
+}
